@@ -1,0 +1,1 @@
+console.log("aichurok hw-1")
